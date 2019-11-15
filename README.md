@@ -1,5 +1,5 @@
 # WeiboTestCrawling
-By TKT for FYP testing purpose
+Crawling post details from Sina Weibo through keyword seraching
 
 # Prerequisites Installation
 1. xlrd
@@ -35,3 +35,14 @@ If file does exist, output data will be written into the sheet which its name is
 Keywords can be a list of keywords.
 
 4. Run testCrawlMyself.py
+
+
+# Issue
+1. elems cannot be found on webpage
+Sometime selenium webdriver was not able to find or select the button control. Data Crawling is forced to stop. (without implement exception handling yet)
+
+2. comment cannot be crawled
+As title
+
+*Arthor: By TKT for FYP testing purpose
+*Resource & Reference: To be update
