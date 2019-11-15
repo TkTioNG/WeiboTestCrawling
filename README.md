@@ -44,5 +44,5 @@ Sometime selenium webdriver was not able to find or select the button control. D
 2. comment cannot be crawled
 As title
 
-*Arthor: By TKT for FYP testing purpose
-*Resource & Reference: To be update
+* Arthor: By TKT for FYP testing purpose
+* Resource & Reference: To be update
